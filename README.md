@@ -4,7 +4,7 @@
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=saowaluck&count_private=true" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saowaluck" alt="saowaluck" /> </p>
 
-<p><img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saowaluck&layout=compact&hide=html&show_icons=true" alt="saowaluck" /></p>
+<p><img align="left" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saowaluck&layout=compact&hide=html&show_icons=true" alt="saowaluck" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=saowaluck&show_icons=true" alt="saowaluck" /></p>
 
 <p align="center">
