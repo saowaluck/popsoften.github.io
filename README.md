@@ -4,11 +4,11 @@
 ## Profile
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=saowaluck&theme=)]
+[![trophy](https://github-profile-trophy.vercel.app/?username=saowaluck&count_private=true&theme=dark)]
 
 ![Saowaluck's github stats](https://github-readme-stats.vercel.app/api?username=saowaluck&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saowaluck&theme=radical)](https://github.com/saowaluck/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saowaluck&theme=radical&count_private=true)](https://github.com/saowaluck/github-readme-stats)
 
 
 # saowaluck.github.io
