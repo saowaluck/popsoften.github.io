@@ -4,7 +4,7 @@
 ## Profile
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=saowaluck&count_private=true&theme=dark)]
+[![trophy](https://github-profile-trophy.vercel.app/?username=saowaluck&count_private=true&theme=dracula)]
 
 ![Saowaluck's github stats](https://github-readme-stats.vercel.app/api?username=saowaluck&show_icons=true&theme=radical)
 
